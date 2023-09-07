@@ -70,3 +70,12 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+
+# Ignoruj pliki z rozszerzeniem .log
+*.log
+
+# Ignoruj katalog node_modules/
+node_modules/
+
+# Ignoruj katalog .vscode/
+.vscode/
